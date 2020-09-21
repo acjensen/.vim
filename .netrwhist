@@ -1,5 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/home/andrew_charles_jensen/snap/exercism/5/exercism'
-let g:netrw_dirhist_2='/home/andrew_charles_jensen/snap/exercism/5/exercism/cpp'
-let g:netrw_dirhist_3='/home/andrew_charles_jensen/snap/exercism/5/exercism/cpp/bob'
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/andrew_charles_jensen/hackerrank/cpp'
+let g:netrw_dirhist_2='/home/andrew_charles_jensen/hackerrank/cpp/attribute-parser'
+let g:netrw_dirhist_3='/home/andrew_charles_jensen/hackerrank/cpp/attribute-parser/src'
+let g:netrw_dirhist_4='/home/andrew_charles_jensen/hackerrank/cpp/attribute-parser'
+let g:netrw_dirhist_5='/home/andrew_charles_jensen/hackerrank/cpp/attribute-parser/src'
+let g:netrw_dirhist_6='/home/andrew_charles_jensen'
+let g:netrw_dirhist_7='/home/andrew_charles_jensen/.vim'
