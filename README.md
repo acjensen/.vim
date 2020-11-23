@@ -1,6 +1,6 @@
 ## .vim
 
-This repo contains all of my default settings and plugins for [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)): a text editor designed for use from a command-line interface.
+This repo contains all of my default settings and plugins for [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)).
 
 ## Installation
 
